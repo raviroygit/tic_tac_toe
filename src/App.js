@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+
 import "./App.css";
 import { useEffect, useState } from "react";
 
